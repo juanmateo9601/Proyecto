@@ -1,0 +1,11 @@
+﻿PROPIEDADES HABITACIÓN,Tierra Superficie: : m²,Volumen: m³,Tierra Perímetro: m,Techo Perímetro: m,Paredes con apertura: m²,Paredes sin apertura: m²,Superficie de las puertas: m²,Superficie de ventanas: m²,Altura del techo
+#HABITACION 1,11.54,27,12.15,13.75,32.19,27.34,3.26,1.58,2.34 m
+#HABITACION 3,7.53,18,10.91,11.28,26.4,24.24,0.77,1.39,2.34 m
+OTRO 2,0,0,0.11,0.11,0.26,0.26,0,0,2.34 m
+BAÑO,3.51,8,7.77,8.25,19.31,18.35,0.96,0,2.34 m
+OTRO 0,0.02,0,0.42,0.66,1.54,1.05,0.49,0,2.34 m
+#COCINA,7.83,18,10.62,11.5,26.92,23.92,1.81,1.19,2.34 m
+HABITACIÓN PRINCIPAL,11.68,27,12.03,13.73,32.14,25.9,3.48,2.76,2.34 m
+OTRO 4,0.01,0,0.16,1.56,3.65,0.82,2.83,0,2.34 m
+HABITACIÓN 2,13.73,32,14.04,14.84,34.76,31.48,1.63,1.64,2.34 m
+PASILLO,17.62,41,21.94,29.01,67.93,49.08,14.63,4.22,2.34 m
